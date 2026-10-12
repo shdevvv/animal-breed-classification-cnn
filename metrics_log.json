@@ -1,0 +1,37 @@
+{
+    "B1": {
+        "trainable_params": 11181642,
+        "epochs_converged": 14,
+        "train_time_sec": 2922.03,
+        "val_acc": 0.3087,
+        "test_macro_f1": 0.3028
+    },
+    "B2": {
+        "trainable_params": 5130,
+        "epochs_converged": 15,
+        "train_time_sec": 1341.91,
+        "val_acc": 0.9329,
+        "test_macro_f1": 0.9202
+    },
+    "B3": {
+        "trainable_params": 8398858,
+        "epochs_converged": 15,
+        "train_time_sec": 1740.21,
+        "val_acc": 0.953,
+        "test_macro_f1": 0.9277
+    },
+    "B4": {
+        "trainable_params": 8398858,
+        "epochs_converged": 9,
+        "train_time_sec": 1111.73,
+        "val_acc": 0.9463,
+        "test_macro_f1": 0.9198
+    },
+    "B5": {
+        "trainable_params": 12810,
+        "epochs_converged": 15,
+        "train_time_sec": 1442.89,
+        "val_acc": 0.9262,
+        "test_macro_f1": 0.9119
+    }
+}
